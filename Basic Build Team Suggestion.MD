@@ -6,7 +6,7 @@ My torres's Hall is lv.18 , ss skill + 1. lv.18 Hall is a basic line for ss card
 
 how many resource did I cost for torres? 
 
-I cost me about 676M money, 13.6K yellow blocks,180 green stone and 7900 gems. A country Hall have 8 players, Spanish Hall +8. Total need 5B money, 108.8K yellow blocks,1440 green stone and 63.2K gems.
+It cost me about 676M money, 13.6K yellow blocks,180 green stone and 7900 gems. A country Hall have 8 players, Spanish Hall +8. Total need 5B money, 108.8K yellow blocks,1440 green stone and 63.2K gems.
 
 That's why I suggest use one national players. Most of us can't afford the huge resource for multinational.
 
