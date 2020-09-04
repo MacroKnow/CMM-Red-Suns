@@ -20,9 +20,9 @@ look at his skill.
 ![skill](mediaResource/player-hall-skill.png)
 
 Finally, building your team with should follow those principles :
-1. using single country hall(which you like), and also  you can use  few foreign player. But it should be sss card and easy to get, like sss ogzil and sss messi.
-2. chosing player should picking who have a lot sticker. especially for foreign players, like sss messi for spanish hall is a good choice.
-3. Attack way: I prefer 'kill pass with fox in box' and 'lofted pass with volley' , I think it's more effective in the beginnig stage(ranking lower than 2M).
+1. Using single country hall(which you like), and also  you can use  few foreign player. But it should be sss card and easy to get, like sss ogzil and sss messi.
+2. Chosing player should picking who have a lot sticker. especially for foreign players, like sss messi for spanish hall is a good choice.
+3. Find your own attack way. I prefer 'kill pass with fox in box' and 'lofted pass with volley' , I think it's more effective in the beginnig stage(ranking lower than 2M). It's ok for 'breakthrough with diving or composure' or 'poacher with long shot(sss rooney)'. Find your own way.  
 
 Any question can disguess in github's issue.
 
